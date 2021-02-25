@@ -263,18 +263,17 @@ ul{
 .work h1{
     margin-bottom:0;
 }
+.work-content{
+    width:100%;
+}
 .work_imag{
-    width:30%;
+    width:80%;
     margin:20px auto;
 }
 .work_imag p{
     margin:16px auto;
 }
 
-.work-content_img svg{
-    width: 90%;
-
-}
 .work-content_img img{
     width: 90%;
 }
